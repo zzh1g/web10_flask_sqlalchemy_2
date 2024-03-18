@@ -1,0 +1,16 @@
+blinker
+click
+colorama
+Flask
+Flask-Login
+Flask-WTF
+greenlet
+importlib-metadata
+itsdangerous
+Jinja2
+MarkupSafe
+SQLAlchemy
+typing_extensions
+Werkzeug
+WTForms
+zipp
